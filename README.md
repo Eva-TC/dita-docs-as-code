@@ -5,7 +5,7 @@ A working example on how you can apply docs-as-code paradigm for a DITA project.
 
 Perform the following steps:
 
-1. Click the following button: [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/AlexJitianu/dita-docs-as-code)
+1. Click the following button: [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Eva-TC/dita-docs-as-code)
 2. Click "Connect to GitHub". If you do not have a GitHub account, you can create one for free.
 3. Choose a name for the new repository
 4. Click "Save & Deploy"
